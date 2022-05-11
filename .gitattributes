@@ -1,0 +1,6 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pk1 filter=lfs diff=lfs merge=lfs -text
+*.spacy filter=lfs diff=lfs merge=lfs -text
+/model/transformer/model filter=lfs diff=lfs merge=lfs -text
+/assets/mp_vocab/vectors filter=lfs diff=lfs merge=lfs -text
