@@ -102,7 +102,7 @@ to assess the sentiment around an entity since a comment may contain multiple se
 In the example below, we can see that in the first sentence, the author is praising Mothership, while in the second part,
 the author is stating that OYK should thank Mothership[^1]. 
 
-![example-1b sentiment parse](./images/ms_oyk_example.png 'me_example')
+![example-1b sentiment parse](./images/ms_oyk_example.jpg 'me_example')
 
 [^1]: post_id: pxyk9b
 
@@ -111,7 +111,7 @@ in this comment is specifically directed at Mothership so assigning both entitie
 
 Spacy has a dependency parser to identify the grammatical relations between the words in a text.
 
-![example-1c sentiment parse](./images/parse_example.png 'me_example')
+![example-1c sentiment parse](./images/parse_example.jpg 'me_example')
 
 Words that are connected by an arc are referred to as a 'Parent' and a 'Child', with the arc representing the syntatic relation between a Parent, Child pair.
 As each relation forms a tree each word can be traced back to a single 'Head'. By iterating through the arcs connected to any tokens that contain an entity,
