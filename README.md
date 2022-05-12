@@ -67,7 +67,7 @@ most submission titles copied directly from the titles of news articles while co
 
 
 
-###<i>Problem 1 and 2</i>
+### <i>Problem 1 and 2</i>
 
 
 ![example-1 standard NER](./images/example_standard_NER.jpg 'standard example - JT')
